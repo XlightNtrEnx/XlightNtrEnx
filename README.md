@@ -8,7 +8,7 @@ README.md inspired by https://github.com/jhjh0409
 &nbsp;
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/XU3mCuw2Sb/)
 
-- 📚 Global Merit Scholar with currently 4.70/5.00 GPA at [Singapore University of Design and Technology](https://www.sutd.edu.sg/).
+- 📚 Global Merit Scholar with currently 4.64/5.00 GPA at [Singapore University of Design and Technology](https://www.sutd.edu.sg/).
 
 ### Languages and stacks:
 ![Android (Java)](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
