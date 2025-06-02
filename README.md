@@ -1,4 +1,4 @@
-## Ohayou 👋
+## Ello 👋
 
 README.md inspired by https://github.com/jhjh0409
 
